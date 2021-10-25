@@ -1,0 +1,15 @@
+_model: page
+---
+title: werkwijze
+---
+nav_bar: yes
+---
+body:
+
+De werkwijze om van klantvraag tot eindproduct te komen is afhankelijk van de gewenste richting van de klant. Zo is het mogelijk om werkwijze hanteren waarbij het eindproduct zeer nauwkeurig wordt gedefinieerd door u als klant. Hierdoor is een goede inschatting mogelijk. 
+
+Daarnaast is het mogelijk om een iteratieve methode (Agile) te hanteren, hierbij wordt het eindproduct minder nauwkeurig gedefineerd maar wordt er regelmatig contact onderhouden met u als klant en met eindgebruikers om de voortgang te volgen. Het voordeel van deze aanpak is dat het voor u makkelijker is om de eisen en wensen te definiëren, deze kunnen door voortschrijdend inzicht aangepast worden. 
+
+###Test Driven Development
+Als ontwikkelmethode zijn wij voorstander van [Test Driven Development](https://nl.wikipedia.org/wiki/Test-driven_development) (TDD resp. ). Dit is een ontwikkel methode die in aanvang meer tijd kost maar vervolgens de stabiliteit nu en in de toekomst ten goede komt. 
+Voor VisualBasic for Applications (Excel) is dit niet gebruikelijk omdat de gereedschappen ontbreken om bijvoorbeeld de testen af te lopen. Daarvoor maken wij gebruik van een Python Bibliotheek of een VBA Plug-In afhankelijk van de wens van de klant. 

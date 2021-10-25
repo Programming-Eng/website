@@ -1,0 +1,35 @@
+title: De programming engineer
+---
+body:
+
+Een programmerend ingenieur voornamelijk werkend met Visual Basic for Applications in combinatie met Excel. Daarnaast ben ik bekend met het volgende ;
+
+<div class="my-auto">
+	<div class="subheading mb-3">Programming Languages &amp; Tools</div>
+		<ul class="list-inline list-icons">
+		<li class="list-inline-item">
+		  <i class="devicons devicons-windows"></i>
+		</li>
+		<li class="list-inline-item">
+		  <i class="devicons devicons-apple"></i>
+		</li>
+      <li class="list-inline-item">
+		  <i class="devicons devicons-git"></i>
+		</li>
+		<li class="list-inline-item">
+		  <i class="devicons devicons-github_badge"></i>
+		</li>
+		<li class="list-inline-item">
+		  <i class="devicons devicons-python"></i>
+		</li>
+		<li class="list-inline-item">
+		  <i class="devicons devicons-markdown"></i>
+		</li>
+		<li class="list-inline-item">
+		  <i class="devicons devicons-terminal"></i>
+		</ul>
+</div>
+---
+nav_bar: yes
+---
+_template: page.html

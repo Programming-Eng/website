@@ -1,0 +1,16 @@
+_model: page
+---
+title: Toepassingen
+---
+body:
+
+### Meet en regel apparatuur
+Vanuit een stuk laboratorium apparatuur komt vaak een flinke hoeveelheid data. Als deze data vaak op dezelfde manier behandeld wordt kan het een flinke tijdswinst opleveren om dit deel te automatiseren. 
+
+### Offertes en rapportages
+Indien er gebruik gemaakt wordt van Excel om offertes of rapportages te maken kun je slimmigheid inbouwen om Excel te laten helpen met juiste uren inschattingen. Later zijn offertes weer te koppelen aan eventuele facturen om zo de geldstroom in de gaten te houden. 
+
+### Databases
+Connectie maken met externe data op servers en deze gemakkelijk en visueel laten weergeven.
+---
+nav_bar: yes
