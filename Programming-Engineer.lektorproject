@@ -1,6 +1,6 @@
 [project]
 name = Programming-Engineer
-output_path = /Users/hayer/website/Programming-Engineer/app
+output_path = /Users/hayer/website/prog-eng/app
 
 [theme_settings]
 # first_name = Roger
